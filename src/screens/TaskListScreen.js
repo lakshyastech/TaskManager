@@ -83,7 +83,7 @@ const TaskListScreen = ({ navigation }) => {
         <StatusBar barStyle="dark-content" backgroundColor="#f5f5f5" />
         <View style={styles.loadingContainer}>
           <ActivityIndicator size="large" color="#2196F3" />
-          <Text style={styles.loadingText}>Loading...</Text>
+          <Text style={styles.loadingText}>Loading your tasks...</Text>
         </View>
       </SafeAreaView>
     );

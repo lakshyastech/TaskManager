@@ -29,7 +29,7 @@ A React Native mobile application that demonstrates offline data storage, state 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/lakshyastech/TaskManager.git
 cd TaskManager
 ```
 
